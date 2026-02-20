@@ -1,3 +1,6 @@
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml"
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные" ,360°
@@ -820,4 +823,5 @@ https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlis
 #EXTINF:-1 tvg-id="ural24" tvg-logo="https://iptvx.one/picons/ural24.png" group-title="Региональные" ,Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
 #EXTINF:-1 tvg-id="yugra" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
+
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
