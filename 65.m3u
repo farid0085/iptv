@@ -817,3 +817,28 @@ http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Христианские" ,Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tojikiston" group-title="Таджикистан",Tojikiston
+https://eja.tv/live/tojikiston.m3u8
+
+#EXTINF:-1 tvg-id="safina" group-title="Таджикистан",Safina
+https://eja.tv/live/safina.m3u8
+
+#EXTINF:-1 tvg-id="jahonnamo" group-title="Таджикистан",Jahonnamo
+https://eja.tv/live/jahonnamo.m3u8
+
+#EXTINF:-1 tvg-id="varzish" group-title="Таджикистан",Varzish
+https://eja.tv/live/varzish.m3u8
+
+#EXTINF:-1 tvg-id="sinamo" group-title="Таджикистан",Sinamo
+https://eja.tv/live/sinamo.m3u8
+
+#EXTINF:-1 tvg-id="bahoriston" group-title="Таджикистан",Bahoriston
+https://eja.tv/live/bahoriston.m3u8
+
+#EXTINF:-1 tvg-id="dushanbe" group-title="Таджикистан",Dushanbe
+https://eja.tv/live/dushanbe.m3u8
+
+#EXTINF:-1 tvg-id="badakhshon" group-title="Таджикистан",Badakhshon
+https://eja.tv/live/badakhshon.m3u8
+
