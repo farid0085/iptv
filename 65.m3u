@@ -842,3 +842,28 @@ https://eja.tv/live/dushanbe.m3u8
 #EXTINF:-1 tvg-id="badakhshon" group-title="Таджикистан",Badakhshon
 https://eja.tv/live/badakhshon.m3u8
 
+# ---- Таджикистан ----
+#EXTINF:-1 group-title="Таджикистан",Tojikiston
+https://eja.tv/live/tojikiston.m3u8
+#EXTINF:-1 group-title="Таджикистан",Safina
+https://eja.tv/live/safina.m3u8
+#EXTINF:-1 group-title="Таджикистан",Jahonnamo
+https://eja.tv/live/jahonnamo.m3u8
+#EXTINF:-1 group-title="Таджикистан",Varzish
+https://eja.tv/live/varzish.m3u8
+
+# ---- Узбекистан ----
+#EXTINF:-1 group-title="Узбекистан",Uzbekiston 24
+https://eja.tv/live/uzbekiston24.m3u8
+#EXTINF:-1 group-title="Узбекистан",Yoshlar
+https://eja.tv/live/yoshlar.m3u8
+#EXTINF:-1 group-title="Узбекистан",Bolajon
+https://eja.tv/live/bolajon.m3u8
+
+# ---- Исламские ----
+#EXTINF:-1 group-title="Исламские",Quran TV
+https://live.qurantv.sa/qurantv/playlist.m3u8
+#EXTINF:-1 group-title="Исламские",Sunnah TV
+https://live.sunnah.tv/sunnah/playlist.m3u8
+#EXTINF:-1 group-title="Исламские",Peace TV
+https://peacetvglobal.akamaized.net/hls/live.m3u8
