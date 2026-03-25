@@ -586,22 +586,6 @@ http://193.25.8.59:8000/outdoor
 http://193.25.8.59:8000/usadba
 
 ########################################################
-# RU | РЕЛИГИЯ
-########################################################
-#EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="RU | РЕЛИГИЯ" ,Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://epg.one/img2/2136.png" group-title="RU | РЕЛИГИЯ" ,Life TV
-http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="RU | РЕЛИГИЯ" ,МузСоюз HD
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="RU | РЕЛИГИЯ" ,Надежда HD
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
-#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="RU | РЕЛИГИЯ" ,Союз HD
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="RU | РЕЛИГИЯ" ,Спас
-http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-
-########################################################
 # RU | РЕГИОНЫ
 ########################################################
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="RU | РЕГИОНЫ" ,12 Канал (Омск)
@@ -1012,3 +996,15 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="RU | ПРОЧЕЕ",Өлзий ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
+
+########################################################
+# RU | ИСЛАМ
+########################################################
+#EXTINF:-1 group-title="RU | ИСЛАМ",Islam Channel
+https://stream.islamchannel.tv/islam-channel.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Makkah Live
+https://win.holol.com/live/arabic/saudiquran/ch1/playlist.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Madinah Live
+https://win.holol.com/live/arabic/saudisunnah/ch1/playlist.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Quran TV
+https://win.holol.com/live/arabic/saudiquran/ch2/playlist.m3u8
