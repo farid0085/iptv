@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="RU | ИСЛАМ",Madinah Live
+https://win.holol.com/live/arabic/saudisunnah/ch1/playlist.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Makkah Live
+https://win.holol.com/live/arabic/saudiquran/ch1/playlist.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Quran TV
+https://win.holol.com/live/arabic/saudiquran/ch2/playlist.m3u8
+#EXTINF:-1 group-title="RU | ИСЛАМ",Islam Channel
+https://stream.islamchannel.tv/islam-channel.m3u8
